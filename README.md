@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hyderabad City Simulation
 
 This project-2 is a simulation of Sim City, where you can manage and monitor the growth and pollution of a virtual city.
@@ -27,3 +28,6 @@ Once the simulation is running, you can interact with it as follows:
 Follow the prompts to provide the configuration file and region data.
 
 The simulation will display the initial state of the region and pollution levels.
+=======
+# Simulation-City-Project
+>>>>>>> 2f362f4fff79366d8c0556a097b79226bf98c25d
